@@ -6,6 +6,7 @@ banco = ConectarDB()
 # criando tabela
 
 banco.criar_tabela()
+print(1)
 
 # dados
 dados = [('Thomaz',19544706742), ('Edson',73753009739), ('Luzia', 73750821348)]
